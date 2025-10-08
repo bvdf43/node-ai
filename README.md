@@ -109,10 +109,9 @@ npm run dev
 
 ```bash
 # API Keys
-NVIDIA_API_KEY=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
-SAMBANOVA_API_KEY=29083607-49c3-46fd-a2db-4f5a6b97e41c
-CEREBRAS_API_KEY=csk-4jrn9fn53mnejw3exk5vpj2tr36k33evjnj99d2t4kthj929
-
+NVIDIA_API_KEY=
+SAMBANOVA_API_KEY=
+CEREBRAS_API_KEY=
 # API Base URLs
 NVIDIA_BASE_URL=https://integrate.api.nvidia.com/v1
 SAMBANOVA_BASE_URL=https://api.sambanova.ai/v1/chat/completions
